@@ -1,4 +1,4 @@
-# 3.1 Introduction to GIT I
+# 3.1 Introduction to GIT I Assignment
 
 ## Basic Git commands and its uses
 
